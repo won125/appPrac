@@ -1,0 +1,14 @@
+package javaPractice;
+
+import java.util.Date;
+
+public class PracticeEx2 {
+
+	public static void main(String[] args) {
+		Date dongback_day,chulzzuck_day,youchae_day;
+		dongback_day = new Date();
+		dongback_day.setDate(20220101);
+
+	}
+
+}
